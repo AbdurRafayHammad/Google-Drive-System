@@ -1,0 +1,9 @@
+﻿  Dictionary.cpp
+C:\Users\dell\Downloads\newwww (2)\newwww\Google Drive\Dictionary.cpp(82,46): warning C4101: 'e': unreferenced local variable
+  googleDrive.cpp
+  HashTable.cpp
+  main.cpp
+C:\Users\dell\Downloads\newwww (2)\newwww\Google Drive\main.cpp(188,32): warning C4566: character represented by universal-character-name '\U0001F4C1' cannot be represented in the current code page (1252)
+C:\Users\dell\Downloads\newwww (2)\newwww\Google Drive\main.cpp(188,44): warning C4566: character represented by universal-character-name '\U0001F4C4' cannot be represented in the current code page (1252)
+  Generating Code...
+  Google Drive.vcxproj -> C:\Users\dell\Downloads\newwww (2)\newwww\x64\Debug\Google Drive.exe
